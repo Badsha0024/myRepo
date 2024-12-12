@@ -1,2 +1,3 @@
 # myRepo
-This is python project
+This is python project.
+Auther - Badsha Ali
